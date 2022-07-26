@@ -16,3 +16,4 @@ URL: https://github.com/mine-cetinkaya-rundel/usweather
 BugReports: https://github.com/mine-cetinkaya-rundel/usweather/issues
 Suggests: 
     learnr
+    rsconnect
