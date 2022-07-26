@@ -1,0 +1,6 @@
+^usweather\.Rproj$
+^\.Rproj\.user$
+^usweather\.Rcheck$
+^usweather.*\.tar\.gz$
+^usweather.*\.tgz$
+^data-raw$
