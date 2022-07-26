@@ -4,3 +4,7 @@
 ^usweather.*\.tar\.gz$
 ^usweather.*\.tgz$
 ^data-raw$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
